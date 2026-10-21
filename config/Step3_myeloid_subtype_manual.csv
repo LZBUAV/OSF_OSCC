@@ -1,0 +1,17 @@
+cluster,name,evidence
+0,Neutrophil,FCGR3B CSF3R AQP9 G0S2
+1,FOLR2+ Macrophage,FOLR2 CD209 CD163 CCL18 SELENOP (resident M2-like)
+2,FCN1+ Monocyte,FCN1 VCAN S100A12 CD300E
+3,KYNU+ Macrophage,KYNU MMP19 C1QC SPP1
+4,Excluded,KRT5 KRT14 CXCL14 COL1A1 (epithelial doublets)
+5,mregDC,CCL19 LAMP3 CCR7
+6,Excluded,CD3D CD247 ICOS TRAC (T cell doublets)
+7,cDC2,FCER1A CD1C CLEC10A
+8,pDC,LILRA4 SCT
+9,CXCL5+ Macrophage,CXCL5 IL6 PTGS2 CXCL1 CCL20 INHBA (inflammatory)
+10,MMP12+ Macrophage,MMP12 C1QA C1QB C1QC APOE
+11,IL10+ Macrophage,IL10 MS4A7 CXCL10 TNF
+12,SPP1+ Macrophage,SPP1 MMP7 TREM2 APOE CHIT1 LPL (lipid-associated)
+13,Excluded,IER5L HEXIM1 CDKN1C (stress / low quality)
+14,Prolif. Macrophage,MKI67 TOP2A CCNA2 + SPP1
+15,cDC1,CLEC9A XCR1

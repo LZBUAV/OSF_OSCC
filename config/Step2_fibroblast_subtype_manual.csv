@@ -1,0 +1,15 @@
+cluster,label,evidence
+0,Pericyte,RGS5 KCNJ8 HIGD1B COX4I2
+1,Excluded,KRT5 KRT6A SFN + COL1A1 (epithelial-fibroblast doublets)
+2,MMP1+ myCAF,MMP1 MMP3 MMP11 CTHRC1 IL24 WNT5A
+3,POSTN+ myCAF,POSTN COL12A1 INHBA TWIST2 CTHRC1
+4,iCAF,CFD PLA2G2A APOD IGF1 SFRP1 CLU
+5,SMC,MYH11 ACTG2 CNN1 LMOD1
+6,Excluded,CD3D NKG7 PTPRC (T cell doublets)
+7,Excluded,C1QC LYZ HLA-DRA TYROBP (macrophage doublets)
+8,Prolif. CAF,MKI67 TOP2A CENPF + COL1A1
+9,qFib,DPT MFAP4 COMP (quiescent / universal fibroblasts)
+10,Excluded,PAX7 MYF5 DLK1 (muscle satellite cells)
+11,Excluded,ACTA1 MYL1 TNNT3 (skeletal muscle)
+12,Excluded,TYRP1 MLANA PMEL (melanocytes)
+13,Excluded,HSPA6 ATF3 DNAJB1 (stress-response / low quality)

@@ -1,0 +1,26 @@
+cluster,celltype,evidence
+0,T_NK,CD3D CD3E CD2
+1,Epithelial,KRT5 KRT14 KRT17
+2,T_NK,CD3D NKG7 GNLY
+3,Epithelial,KRT5 KRT14 KRT17
+4,Fibroblast,COL1A1 DCN LUM
+5,Myeloid,CD68 CD14 LYZ
+6,Epithelial,KRT5 KRT14 KRT17
+7,Endothelial,PECAM1 VWF CDH5
+8,Pericyte_SMC,RGS5 KCNJ8 ACTA2
+9,Epithelial,KRT5 KRT14 KRT17
+10,Myeloid,CSF3R AQP9 CXCL8 (neutrophils)
+11,B_cell,MS4A1 CD79A
+12,Plasma,IGHG1 JCHAIN MZB1
+13,Mast,TPSAB1 CPA3
+14,T_NK,CD3D CD2
+15,Epithelial,KRT5 SFN
+16,Excluded,MPZ CDH19 NRXN1 (neural-like / low quality)
+17,Epithelial,SCGB3A1 PIGR (glandular epithelium)
+18,Endothelial,PROX1 LYVE1 CCL21 (lymphatic)
+19,Myeloid,LAMP3 CCR7 CCL17 (mature DC)
+20,Myeloid,LILRA4 CLEC4C (pDC)
+21,Epithelial,KRT5 KRT14
+22,Endothelial,SOX17 GJA4 CDH5 (arterial)
+23,Excluded,APOE SPP1 + VWF SELP (macrophage-endothelial doublets)
+24,Epithelial,FOXI1 ASCL3 CFTR (ionocytes)
